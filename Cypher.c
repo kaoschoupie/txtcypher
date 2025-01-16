@@ -9,6 +9,7 @@ char *cypher(char *str, int size, int key)
         if (str[i] == '\n' || str[i] == '\r')
         {
             output[i] = '\n';
+            output[i + 1] = '\0';
             break;
         }
         char value = str[i] + key + i % 3;

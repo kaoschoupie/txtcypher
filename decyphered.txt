@@ -1,2 +1,68 @@
 Récup Steam: R97881
-ult
+
+Amazon: M
+Archambault:M!
+Asus: A4Z!
+Battlenet: B
+Best Buy:M!
+Cineplex: M!1
+Costco employé: maximesmith M!
+Décathlon: M
+Discord: M
+Econofitness: M
+Epic: Ad4Z
+Facebook: B4l
+Fairstone: M!
+Hydro-Québec: M
+idLauncher/Bethesda:B
+iLok: MaxKaos9212, S
+Indeed: M
+Indigo: M
+Intact Assurances: M!123
+JobIllico: M
+Kijiji: M!
+Leetcode: maxime9212, A4Z
+Long n Mcquade: M
+Memory Express: M
+Microsoft: M
+Minecraft: M
+Mix with the Masters: S
+Mooer:M
+MyProtein:B4l
+Nespresso: M
+Neural DSP: S!
+Nvidia: B
+Nexusmod: Bb
+Origin(EA): Bb
+Paypal: Ad4Z
+Petro Canada: M!
+Positive Grid: S
+Primecable: M
+Promutuel: A4Z!
+Reddit: maxkaos9212 M
+Rockstar:B
+Rodd and Gunn: M
+Qmee: Ad4Z
+service d'authentification gouvernementale: maxime9212, M!A4Z
+Snapchat: M
+Starbreeze: M
+Steam: B
+STL: M
+Student Beans: S
+STL TONES: S!
+SynGates: M
+Ubisoft: M
+UPS: M!123
+Virgin mobile:M
+Waves plugins: S!
+VerifyPass: S!
+Wealthsimple: Ad4Z
+Wellfound: M
+Workday Autodesk: M!
+Workday best buy: M!
+Workday Desjardins: M!
+workday intact: M!
+Workday sandvik: M!
+Taleo Société Générale: M!
+TryHackMe: A4Z!
+Yuzu: M!
