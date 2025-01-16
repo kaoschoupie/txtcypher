@@ -1,0 +1,13 @@
+CYPHER
+open txt file to cypher
+create new txt file to contain cypher output    //to remove once i'm confident about the decypher ability
+cypher current line
+output the result into the new txt file
+go to next line and repeat until no more lines in og file
+
+DECYPHER
+opened cyphered txt file
+create new txt file to contain decyphered output
+decypher current line
+output result to new txt file
+go to next line and repeat until no more lines in cyphered file
